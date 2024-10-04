@@ -1,4 +1,4 @@
-These are the completed files for the Tutorial found here: [Astro Tutorial] (https://docs.astro.build/en/tutorial/0-introduction/)
+These are the completed files for the Tutorial found here: [Astro Tutorial](https://docs.astro.build/en/tutorial/0-introduction/)
 
 I did not run <code>npm run build</code> to output a complete website.
 
