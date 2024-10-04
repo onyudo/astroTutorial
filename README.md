@@ -1,3 +1,7 @@
+These are the completed files for the Tutorial found here: [https://docs.astro.build/en/tutorial/0-introduction/]
+
+I did not run <code>npm run build</code> to output a complete website.
+
 # Astro Starter Kit: Minimal
 
 ```sh
